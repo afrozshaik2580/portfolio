@@ -15,7 +15,7 @@ function Icons(){
                     <Icon name="C" imgName="c.svg"/>
                     <Icon name="Spring Boot" imgName="spring.svg"/>
                     <Icon name="Hibernate" imgName="hibernate.svg"/>
-                    <Icon name="Thymeleaf" imgName="thymeleaf.svg"/>
+                    <Icon name="Thymeleaf" imgName="thymeleaf.png"/>
                     <Icon name="SQL" imgName="sql.svg"/>
                     <Icon name="HTML" imgName="html.svg"/>
                     <Icon name="CSS" imgName="css.svg"/>

@@ -7,7 +7,7 @@ function Project(props){
         <div className="col-lg-4 col-md-6 mix">
             <div className="project-box">
                 <div className="project-img">
-                    <img src={"img/project/"+props.imgName} alt={props.imgName}/>
+                    <img src={require("./img/project/"+props.imgName)} alt={props.imgName}/>
                 </div>
                 <div className="project-link">
                     <h4>{props.name}</h4>

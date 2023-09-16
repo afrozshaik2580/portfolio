@@ -12,7 +12,7 @@ function About(){
                     <Fade bottom>
                     <div className="col-md-4">
                         <div className="aboout-img">
-                            <img className="" data-wow-duration="1s" src="img/afroz-shaik.jpeg" alt="me"/>
+                            <img className="" src={require("./img/afroz-shaik.jpeg")} alt="me"/>
                         </div>
                     </div>
                     </Fade>

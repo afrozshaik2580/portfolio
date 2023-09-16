@@ -9,10 +9,10 @@ function Home(){
                         <div className="row align-items-center">
                             <div className="col-lg-6 col-sm-6">
                                 <div className="banner-text">
-                                    <Fade right><h1 className="" data-wow-duration="1s">I'M Afroz Shaik</h1></Fade>
-                                    <Fade top><h4 className=""data-wow-duration="2s">Full Stack Developer</h4></Fade>
-                                    <Fade bottom><p className="" data-wow-duration="1s">Hello, I am Afroz Shaik and I am from India. Taking Web Development as a profession not only fulfills my pocket but also my heart because it has been my passion since my early teenage.</p></Fade>
-                                    <Zoom ><a href="./img/resume.pdf" className="all-btn" download="resume.pdf">
+                                    <Fade right><h1>I'M Afroz Shaik</h1></Fade>
+                                    <Fade top><h4>Full Stack Developer</h4></Fade>
+                                    <Fade bottom><p>Hello, I am Afroz Shaik and I am from India. Taking Web Development as a profession not only fulfills my pocket but also my heart because it has been my passion since my early teenage.</p></Fade>
+                                    <Zoom ><a href={require("./img/resume.pdf")} className="all-btn" download="resume.pdf">
                                         Download CV
                                         <i className="fas fa-download"></i>
                                     </a>
@@ -22,7 +22,7 @@ function Home(){
                             <Zoom>
                             <div className="col-lg-6 col-sm-6">
                                 <div className="banner-img">
-                                    <img className="" data-wow-duration="2s" src="img/afroz-shaik.jpeg" alt="banner image"/>
+                                    <img src={require("./img/afroz-shaik.jpeg")} alt="banner image"/>
                                 </div>
                             </div>
                             </Zoom>
