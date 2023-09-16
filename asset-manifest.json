@@ -1,10 +1,37 @@
 {
   "files": {
-    "main.js": "/portfolio/static/js/main.e9718655.js",
+    "main.css": "/portfolio/static/css/main.1e9646de.css",
+    "main.js": "/portfolio/static/js/main.5d655398.js",
+    "static/media/veganstore.png": "/portfolio/static/media/veganstore.fd735573a1f57052ddc5.png",
+    "static/media/resume.pdf": "/portfolio/static/media/resume.4465891b7ef72f072928.pdf",
+    "static/media/java.png": "/portfolio/static/media/java.3f1110dbc5b2179203be.png",
+    "static/media/afroz-shaik.jpeg": "/portfolio/static/media/afroz-shaik.71bb4bcd008bf3007de6.jpeg",
+    "static/media/python.png": "/portfolio/static/media/python.aae9642a341c96358a76.png",
+    "static/media/tindog.png": "/portfolio/static/media/tindog.591b5c765cd29e4bead4.png",
+    "static/media/thymeleaf.png": "/portfolio/static/media/thymeleaf.afb32317e3ae15783772.png",
+    "static/media/logo.png": "/portfolio/static/media/logo.6e796ab798b9116766d9.png",
+    "static/media/keeper-app.png": "/portfolio/static/media/keeper-app.8a8934d676002518b2b4.png",
+    "static/media/foodstall.png": "/portfolio/static/media/foodstall.2d5b0269695a9383e784.png",
+    "static/media/react.svg": "/portfolio/static/media/react.0cc978f43ea437de003e.svg",
+    "static/media/mysql.svg": "/portfolio/static/media/mysql.0b9bc0186525f731d3c8.svg",
+    "static/media/eclipse.svg": "/portfolio/static/media/eclipse.e68104c97d22ee2284c5.svg",
+    "static/media/vscode.svg": "/portfolio/static/media/vscode.d1a9d917344747ffcbf5.svg",
+    "static/media/bootstrap.svg": "/portfolio/static/media/bootstrap.46e166ca9591bcc3873d.svg",
     "index.html": "/portfolio/index.html",
-    "main.e9718655.js.map": "/portfolio/static/js/main.e9718655.js.map"
+    "static/media/javascript.svg": "/portfolio/static/media/javascript.63b93412a24001eff2ac.svg",
+    "static/media/sql.svg": "/portfolio/static/media/sql.dbc9c16ddf720813f814.svg",
+    "static/media/spring.svg": "/portfolio/static/media/spring.163d115dfcbe114ada37.svg",
+    "static/media/iot.svg": "/portfolio/static/media/iot.7c4d05e6daf3dd864d9c.svg",
+    "static/media/css.svg": "/portfolio/static/media/css.d775a84d2e94cdab548c.svg",
+    "static/media/github.svg": "/portfolio/static/media/github.db432c59c1ea8141b12c.svg",
+    "static/media/html.svg": "/portfolio/static/media/html.51305ec564cee03372ec.svg",
+    "static/media/c.svg": "/portfolio/static/media/c.4d943a0cb2aae0c43936.svg",
+    "static/media/hibernate.svg": "/portfolio/static/media/hibernate.3eddf83ebb8eaa7b9a99.svg",
+    "main.1e9646de.css.map": "/portfolio/static/css/main.1e9646de.css.map",
+    "main.5d655398.js.map": "/portfolio/static/js/main.5d655398.js.map"
   },
   "entrypoints": [
-    "static/js/main.e9718655.js"
+    "static/css/main.1e9646de.css",
+    "static/js/main.5d655398.js"
   ]
 }
